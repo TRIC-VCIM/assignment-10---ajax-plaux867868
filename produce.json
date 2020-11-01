@@ -1,0 +1,38 @@
+[{
+    "name": "fuji apple",
+    "instock": false
+  },
+  {
+    "name": "granny smith apple",
+    "instock": true
+  },
+  {
+    "name": "honey crisp apple",
+    "instock": true
+  },
+  {
+    "name": "red carrot",
+    "instock": false
+  },
+  {
+    "name": "pumpkin",
+    "instock": true
+  },
+  {
+    "name": "green bell pepper",
+    "instock": false
+  },
+  {
+    "name": "parsely",
+    "instock": true
+  },
+  {
+    "name": "cilantro",
+    "instock": true
+  },
+  {
+    "name": "cherry tomato",
+    "instock": true
+  },
+
+]
