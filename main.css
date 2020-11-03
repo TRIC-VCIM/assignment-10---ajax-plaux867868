@@ -1,0 +1,33 @@
+section {
+  border: 2px solid black;
+  margin-top: 2%;
+}
+
+p {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+img {
+  float: right;
+  width: 100px;
+  height: 115px;
+  margin-top: .25%;
+}
+
+section {
+  display: flex;
+  justify-content: space-around;
+}
+
+h2 {
+  text-decoration: underline;
+}
+
+h1 {
+  text-decoration: underline;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+div {
+  padding-bottom: 4%;
+}
